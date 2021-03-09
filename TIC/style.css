@@ -1,0 +1,30 @@
+body {
+	font-family: "arial";
+	margin: 50px;
+}
+p{
+	margin-left: 0px;
+	margin-right: 50px;
+	text-align: justify;
+    font-size: 12px;
+}
+h1{
+	color: rgb(253, 0, 190);
+	text-align: center;
+	font-style: oblique;
+	font-variant: small-caps;
+}
+
+h2{
+    color: blue;
+    text-align: justify;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+    
