@@ -21,6 +21,11 @@ h2{
     font-size: 14px;
 }
 
+.jumbotron {
+	background-image: url("../images/cute.jpg");
+	background-size: cover;
+  }
+
 
 
 
