@@ -1,4 +1,7 @@
 body {
+margin: 10;
+padding: 5;
+border: 5;
 font-size: 100%;
 font:inherit;
 text-align: justify;
