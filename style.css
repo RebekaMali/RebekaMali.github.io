@@ -3,6 +3,7 @@ padding: 5;
 border: 5;
 font-size: 100%;
 font:inherit;
+background-image: url("../RebekaMali.github.io/images/sea.jpg");
 }
 
 h1{
@@ -28,7 +29,6 @@ h1{
 
 
 .jumbotron{
-    background-image: url("images/sea.jpg");
     background-position: center; /* centrée */ 
     background-size: cover; /*couvre toute la surface*/
 	line-height: 1.75;
