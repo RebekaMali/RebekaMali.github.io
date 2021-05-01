@@ -8,16 +8,16 @@ On my web page you will be able to:
 
 ### Find here the list of the films and tv series in order:
 
-**1. Gone with the wind**
+**1. Gone with the wind**:
 *The masterpiece*
 
-**2. The Mandalorian**
+**2. The Mandalorian**:
 *The cult of the moment*
 
-**3. Gilmore Girls**
+**3. Gilmore Girls**:
 *The fun one*
 
-**4. The Notebook**
+**4. The Notebook**:
 *The romantic one*
 
 You can find all these films on  [Netflix](https://www.netflix.com/fr/) and  [DisneyPlus](https://www.disneyplus.com/en-gb/select-profile/)
