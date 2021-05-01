@@ -37,10 +37,7 @@ h1{
 	line-height: 1.75;
 	text-align: center;
 }
-.column {
-	float: left;
-	width: 50%;
-  }
+
   
   /* Clear floats after the columns */
   .row:after {
