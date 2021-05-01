@@ -13,7 +13,6 @@ h1{
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 		font-size: 65px;
-		text-align: center;
 		
 	}
 
@@ -27,6 +26,14 @@ h1{
 		font-size:larger;
 		text-align: justify;
 	}
+
+  #banner {
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	line-height: 1.75;
+	text-align: center;
+}
 
 .jumbotron{
     background-position: center; /* centrée */ 
