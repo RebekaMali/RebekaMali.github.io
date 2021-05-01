@@ -1,7 +1,4 @@
 body {
-margin: 10;
-padding: 5;
-border: 5;
 font-size: 100%;
 font:inherit;
 text-align: justify;
@@ -38,12 +35,6 @@ h1{
 	text-align: center;
 }
 
-  /* Clear floats after the columns */
-  .row:after {
-	content: "";
-	display: table;
-	clear: both;
-  }
 
   .card-img-top {
     width: 100%;
