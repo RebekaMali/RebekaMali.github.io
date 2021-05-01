@@ -3,7 +3,6 @@ padding: 5;
 border: 5;
 font-size: 100%;
 font:inherit;
-background-image: url("../RebekaMali.github.io/images/sea.jpg");
 }
 
 h1{
@@ -33,6 +32,7 @@ h1{
     background-size: cover; /*couvre toute la surface*/
 	line-height: 1.75;
 	text-align: center;
+	background-image: url("../RebekaMali.github.io/images/cute.jpg");
 }
 
   .card-img-top {
