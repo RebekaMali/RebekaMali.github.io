@@ -1,4 +1,7 @@
 body {
+margin: 20;
+height: 100%;
+width: 100%;
 padding: 5;
 border: 5;
 font-size: 100%;
