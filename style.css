@@ -1,3 +1,10 @@
+body {
+padding: 5;
+border: 5;
+font-size: 100%;
+font:inherit;
+text-align: justify;
+}
 
 h1{
 		color: #070707;
