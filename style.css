@@ -36,10 +36,7 @@ h1{
 	text-align: center;
 }
 
-.jumbotron{
-    background-position: center; /* centrée */ 
-    background-size: cover; /*couvre toute la surface*/
-}
+
 
   .card-img-top {
     width: 100%;
