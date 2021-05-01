@@ -29,6 +29,7 @@ h1{
 
   #banner {
 	background-attachment: fixed;
+	background-image:url("../images/cute.jpg");
 	background-position: center;
 	background-size: cover;
 	line-height: 1.75;
@@ -37,11 +38,7 @@ h1{
 
 .jumbotron{
     background-position: center; /* centrée */ 
-    background-size: cover;
-	background-image:url("../images/cute.jpg"); /*couvre toute la surface*/
-	background-attachment: fixed;
-	line-height: 1.75;
-	text-align: center;
+    background-size: cover; /*couvre toute la surface*/
 }
 
   .card-img-top {
